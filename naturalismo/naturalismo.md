@@ -1,5 +1,5 @@
 ﻿# Desarrollo de CMS basado en laravel para naturalismo
- **Giro comercial preparacion y ventas al por menor **
+﻿## Giro comercial preparacion y ventas al por menor **
   
 15 razones para custrir el software 
 1.  _**Mejorar su productividad.**_
@@ -56,5 +56,5 @@ Programador(Eduardo Emanuell Diaz Rubio 17TIC0037)
 |Hosting elegido (ocean)       | Confiabilidad de información de página web,Droplets con un solo clic,cPanel muy completo,Alojamiento en la nube,Servicio de VPS,Soluciones para WordPress y otros,CMS (a través de cPanel),Registrar dominios web. |1     |
 |  |||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY2NjM1ODldfQ==
+eyJoaXN0b3J5IjpbLTE1NzU4NDYzNzJdfQ==
 -->
