@@ -47,15 +47,14 @@ si, debido a que el negocio de comida y bebida es un mercado bastante amplio es 
 |3;Programador(Eduardo Emanuell Diaz Rubio          |es el encargado de Lectura y análisis de informes de investigación y sugerencias de los usuarios tiene como función la Creación de programas y aplicaciones|1;Definir las especificaciones técnicas del nuevo producto,2;incluido su código.3Testear y monitor izar el funcionamiento de los distintos programas y aplicaciones. Solucionar errores si los hubiera.4.  Actualizar dichas aplicaciones y programas.|
 
 ## Tecnologías para construir software 
----------
-|            Tecnología                                                |7 razones                |
+|            Tecnología                                                |Razones                |
 |----------------|-------------------------------|-----------------------------|
 |lenguaje de programación (php)  |  Código abierto Multiplataforma Gran comunidad Estabilidad, flexibilidad y Velocidad  Aunque el PHP ya está bien establecido, sus prospectos futuros son infinitos      |           
-|editor de codigo (atom)      |  interfaz amigable a la vista---- puedes ‘armar’ Atom a tu gusto integrando algún paquete----Ligereza que tu RAM apreciará-------permite integrar características que son útiles en otros programas a su propia configuración.--------------------ES SOFTWARE LIBRE |1     |
+|editor de codigo (atom)      |  interfaz amigable a la vista---- puedes ‘armar’ Atom a tu gusto integrando algún paquete ----Ligereza que tu RAM apreciará------- permite integrar características que son útiles en otros programas a su propia configuración.--------------------ES SOFTWARE LIBRE |1     |
 |gestor de base de datos (MYSQL)   |Es una base de datos gratuita.   Es muy fácil de usar    Es una base de datos muy rápida   Utiliza varias capas de seguridad  Es compatible con Linux y Windows Pocos requerimientos y eficiencia de memoria||
 |Hosting elegido (ocean)       | Confiabilidad de información de página web,Droplets con un solo clic,cPanel muy completo,Alojamiento en la nube,Servicio de VPS,Soluciones para WordPress y otros,CMS (a través de cPanel),Registrar dominios web. |1     |
 |  |||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzOTYyNTEzLDEzMjc0ODExMzksOTU5ND
+eyJoaXN0b3J5IjpbMzM3NDAyMDk1LDEzMjc0ODExMzksOTU5ND
 A3MzMzXX0=
 -->
