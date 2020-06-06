@@ -29,16 +29,14 @@ Preparación y venta al por menor de alimentos saludables
 15. valor a la empresa en venta **futura**
 
 
-----
-¿Puedo vender mi software a mas negocios del mismo giro ó es un mercado muy reducido? si 
-debido a que el negocio de comida y bebida es un mercado bastante amplio es indispensable para la vida cotidiana tener un software en un negocio da un giro muy importante ya que nos permie ampliar informacion  sobre nuestro negocio 
+## Análisis del Proyecto
+### ¿Puedo vender mi software a mas negocios del mismo giro ó es un mercado muy reducido?
+si, debido a que el negocio de comida y bebida es un mercado bastante amplio es indispensable para la vida cotidiana tener un software en un negocio da un giro muy importante ya que nos permie ampliar informacion  sobre nuestro negocio 
 
----
-
-¿qué puestos estarían desarrollando?
-Jefe de proyecto (Jonathan Arana Sanchez 17TIC0031)
-Disenador web(Erick Gabriel Monroy Larios17TIC0047)
-Programador(Eduardo Emanuell Diaz Rubio 17TIC0037) 
+### ¿qué puestos estarían desarrollando?
+- Jefe de proyecto (Jonathan Arana Sanchez 17TIC0031)
+- Disenador web(Erick Gabriel Monroy Larios17TIC0047)
+- Programador(Eduardo Emanuell Diaz Rubio 17TIC0037) 
 
 
 ----
@@ -57,5 +55,5 @@ Programador(Eduardo Emanuell Diaz Rubio 17TIC0037)
 |Hosting elegido (ocean)       | Confiabilidad de información de página web,Droplets con un solo clic,cPanel muy completo,Alojamiento en la nube,Servicio de VPS,Soluciones para WordPress y otros,CMS (a través de cPanel),Registrar dominios web. |1     |
 |  |||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NDA3MzMzXX0=
+eyJoaXN0b3J5IjpbMTMyNzQ4MTEzOSw5NTk0MDczMzNdfQ==
 -->
